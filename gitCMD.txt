@@ -1,0 +1,4 @@
+git config --global user.name "Milan Petrovski"
+git config --global user.email "milan.petrovski8@gmail.com"
+git init
+git config --global --list
