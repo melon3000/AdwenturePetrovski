@@ -1,4 +1,9 @@
-git config --global user.name "Milan Petrovski"
+C:// #faili lokatsioon
+
+git config --global user.name "melon3000"
 git config --global user.email "milan.petrovski8@gmail.com"
-git init
+git init AdwenturePetrovski
 git config --global --list
+ 
+git status
+git commit -a -m "git käsude fail on loodud"
