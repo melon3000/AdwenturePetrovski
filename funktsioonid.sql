@@ -22,8 +22,4 @@ from dimEmployee
 return
 end
 --kontroll
-<<<<<<< HEAD
 Select * from fn_MSTVF_GetEmployees()
-=======
-Select * from fn_MSTVF_GetEmployees()
->>>>>>> e738c18069c21d52416a4faacbf6110eb3d12838
