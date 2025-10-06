@@ -23,6 +23,3 @@ return
 end
 --kontroll
 Select * from fn_MSTVF_GetEmployees()
-
-
--- Uuendame allasuvat tabelit ja kasutame selleks 
